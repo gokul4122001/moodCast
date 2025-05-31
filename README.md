@@ -212,27 +212,5 @@ The app recognizes and displays appropriate icons for:
 5. News is filtered based on current weather temperature
 6. UI is updated with weather and filtered news data
 
-## 🐛 Troubleshooting
 
-### Common Issues
-
-1. **Location Permission Denied**
-   - Check device location settings
-   - Grant location permission to the app
-   - App will fallback to New York weather data
-
-2. **API Key Issues**
-   - Ensure API keys are correctly set in AppContext.js
-   - Verify API keys are active and have remaining quota
-   - Check API key format and permissions
-
-3. **No News Displayed**
-   - Check internet connection
-   - Verify NewsAPI key is valid
-   - Ensure at least one news category is selected in settings
-
-4. **Weather Data Not Loading**
-   - Check internet connection
-   - Verify OpenWeatherMap API key
-   - Try refreshing the data
 
