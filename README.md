@@ -213,4 +213,9 @@ The app recognizes and displays appropriate icons for:
 6. UI is updated with weather and filtered news data
 
 
+Screen Short 
+
+
+![WhatsApp Image 2025-05-31 at 7 09 36 PM](https://github.com/user-attachments/assets/e8be86ed-c0e1-429d-8966-84c5c79238df)
+![WhatsApp Image 2025-05-31 at 7 10 25 PM](https://github.com/user-attachments/assets/36867ac3-8d1a-4d30-b5b0-e00a20520e69)
 
